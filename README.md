@@ -1,2 +1,3 @@
 # Publisher
-Publish article to blog platforms, with attachments
+
+A description of this package.
